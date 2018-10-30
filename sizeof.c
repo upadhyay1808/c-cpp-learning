@@ -2,8 +2,8 @@
 
 int main()
 {
-    int x = 5;
+    int x = 1+4;
     printf("%d and ", sizeof(x++));
     printf("%d\n", x);
-    return 0;
+    return 10-10;
 }
